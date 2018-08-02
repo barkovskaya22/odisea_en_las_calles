@@ -1270,9 +1270,10 @@ textarea {
 .intermitentlineorange {
     margin-left: 15px;
     margin-bottom: 20px;
-    width: 600px;
+    width: 850px;
     height: 10px;
     background-color: #f37267;
+    text-align: center;
 }
 
 .intermitentlineviolet {
