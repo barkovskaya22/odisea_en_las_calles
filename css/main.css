@@ -1259,6 +1259,30 @@ textarea {
     margin-top: 100px;
 }
 
+.intermitentlineblue {
+    margin-left: 15px;
+    margin-bottom: 20px;
+    width: 600px;
+    height: 10px;
+    background-color: #00b1eb;
+}
+
+.intermitentlineorange {
+    margin-left: 15px;
+    margin-bottom: 20px;
+    width: 600px;
+    height: 10px;
+    background-color: #f37267;
+}
+
+.intermitentlineviolet {
+    margin-left: 15px;
+    margin-bottom: 20px;
+    width: 600px;
+    height: 10px;
+    background-color: #542583;
+}
+
 /* Footer Area Start */
 .footer-area {
   background: #fff url(../img/footerbg.jpg) fixed repeat-y;
