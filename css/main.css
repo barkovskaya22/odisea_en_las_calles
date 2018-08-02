@@ -30,6 +30,10 @@ h1, h2, h3, h4 {
     margin-top: 40px;
 }
 
+.headline {
+    width: 100%;
+}
+
 a {
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
@@ -1199,18 +1203,20 @@ textarea {
 }
 
 .subscribes {
-  background: #f8f9fb;
+  background: #863232 url(../img/footerbg.jpg) no-repeat fixed ;
 }
 
 .subscribes h4 {
   text-align: center;
   font-size: 40px;
+    color: white;
 }
 
 .subscribes p {
   font-size: 14px;
   text-align: center;
   margin-bottom: 30px;
+    color: white;
 }
 
 .subscribe {
@@ -1224,7 +1230,7 @@ textarea {
   border-radius: 50px;
   position: relative;
   height: 52px;
-  border: 1px solid #137ED9;
+  border: 1px solid #50a3ea;
 }
 
 .subscribe .btn-submit {
