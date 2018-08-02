@@ -1182,7 +1182,7 @@ textarea {
 }
 
 #contact #contactForm {
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 
@@ -1248,6 +1248,11 @@ textarea {
   color: #fff;
   line-height: 48px;
   border-radius: 50%;
+}
+
+.socialmediacontainer {
+    margin-left: 400px;
+    margin-top: 30px;
 }
 
 /* Footer Area Start */
