@@ -1262,7 +1262,7 @@ textarea {
 
 .loadmore {
     margin-top: 100px;
-    margin-left: 800px;
+    margin-left: 600px;
 }
 
 .intermitentlineblue {
@@ -1296,6 +1296,9 @@ textarea {
     background-color: #542583;
 }
 
+.blogimg {
+    margin-left: 300px;
+}
 /* picture blog zooms */
 
 .parent {
