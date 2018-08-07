@@ -324,7 +324,7 @@ hr {
 .title-hl {
   font-size: 40px;
   margin-bottom: 50px;
-    margin-top: 230px;
+    margin-top: 20px;
     color: 
 }
 
@@ -1518,6 +1518,10 @@ textarea {
         display: block;
         width: 100%;
     }
+    
+    .odisealogo {
+        width: 30%;
+    }
 }
 
 @media (min-width:480px) {
@@ -1526,9 +1530,6 @@ textarea {
         margin-left: 450px;
     }
     
-    .odisealogo {
-        width: 15px;;
-    }
     
     .blogimg {
         width: 100%;
