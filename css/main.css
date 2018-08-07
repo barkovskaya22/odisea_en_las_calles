@@ -1256,7 +1256,7 @@ textarea {
 }
 
 .socialmediacontainer {
-    margin-left: 400px;
+    margin-left: 200px;
     margin-top: 30px;
 }
 
@@ -1265,26 +1265,32 @@ textarea {
 }
 
 .intermitentlineblue {
-    margin-left: 15px;
+    margin-left: 300px;
     margin-bottom: 20px;
-    width: 800px;
+    width: 300px;
     height: 10px;
     background-color: #00b1eb;
-}
-
-.intermitentlineorange {
-    margin-left: 15px;
-    margin-bottom: 20px;
-    width: 850px;
-    height: 10px;
-    background-color: #f37267;
+    align-content: center;
     text-align: center;
 }
 
-.intermitentlineviolet {
-    margin-left: 15px;
+.intermitentlineorange {
+    margin-left: 300px;
     margin-bottom: 20px;
-    width: 800px;
+    width: 300px;
+    height: 10px;
+    background-color: #f37267;
+    text-align: center;
+    align-content: center;
+   
+}
+
+.intermitentlineviolet {
+    margin-left: 300px;
+    margin-bottom: 20px;
+    align-content: center;
+    text-align: center;
+    width: 300px;
     height: 10px;
     background-color: #542583;
 }
@@ -1328,7 +1334,7 @@ textarea {
 /* end */
 
 .referencias {
-    margin-left: 200px;
+    margin-left: 100px;
 }
 
 /* Footer Area Start */
@@ -1503,11 +1509,24 @@ textarea {
     .paraquienes {
         margin-right: 50px;
     }
+    
+    .blogimg {
+        display: block;
+        width: 100%;
+    }
 }
 
 @media (min-width:480px) {
     
     .contact-form-container {
-        margin-left: 700px;
+        margin-left: 450px;
+    }
+    
+    .odisealogo {
+        width: 15px;;
+    }
+    
+    .blogimg {
+        width: 100%;
     }
 }
