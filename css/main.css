@@ -613,7 +613,7 @@ hr {
 }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #fff;
+  background: #ff6200;
 }
 
 /* only small tablets */
@@ -1511,22 +1511,108 @@ textarea {
     }
     
     .infotype {
-        width: 100%;
+        width: 300px;
+        margin-left: 10px;
     }
     
     .paraquienes {
-        margin-right: 50px;
+        width: 300px;
+        margin-left: -170px;
     }
     
     .blogimg {
-        display: block;
+        display: inline;
         width: 100%;
     }
     
     .odisealogo {
         width: 30%;
     }
+    
+    .flyingchica {
+        display: none;
+    }
+    
+    .quieromasinfo {
+        width: 100px;
+        margin-left: 100px;
+    }
+    
+    .photoheaderexp {
+        width: 200px;
+        display: block;
+        
+    }
+    
+    .photoheadernov {
+        width: 200px;
+        display: inline-block;
+        
+    }
+    
+    .photoheadercon {
+        width: 200px;
+        display: block;
+        
+        
+    }
+    
+    .pageheaders {
+       width: 300px; 
+    }
+    
+    .mapasolo {
+        width: 400px;
+        margin-left: -30px;
+    }
+    
+    .maparefe {
+        width: 300px;
+        margin-top: 20px;
+        margin-left: -70px;
+    }
+    
+    .containertable {
+    width: 200px;
+    height: 400px;
+    margin: 5% auto;
+    
 }
+    
+    .odiseageneral {
+        width: 300px;
+    }
+    
+    .titulosexp {
+        width: 200px;
+    }
+    
+    .espectaculos {
+    margin-left: 5px;
+    
+}
+    
+    .espcosas {
+        width: 400px;
+        margin-left: -20px;
+    }
+    
+    .loadmore {
+    margin-top: 100px;
+    margin-left: 60px;
+}
+    
+    .blogimg {
+    margin-left: -139px;
+    width: 300px;
+}
+    
+    .socialmediacontainer {
+    margin-left: 10px;
+    margin-top: 30px;
+}
+    
+    }
 
 @media (min-width:480px) {
     
@@ -1537,5 +1623,9 @@ textarea {
     
     .blogimg {
         width: 100%;
+    }
+    
+    .pageheaders {
+        width: 300px;
     }
 }
